@@ -1,1 +1,2 @@
-el224bc-examination-1
+Digital Graphics I 
+Assignment 6
